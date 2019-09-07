@@ -1,4 +1,2 @@
-# miniature-metropolises
-A way to play Tiny Towns online
-# Milestones
-- Make it work
+# Instructions
+Click the "Use this template" button on the GitHub page.
