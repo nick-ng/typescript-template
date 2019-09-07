@@ -1,3 +1,6 @@
+# Compiled files
+.built/*
+
 # Logs
 logs
 *.log

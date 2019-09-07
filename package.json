@@ -1,0 +1,27 @@
+{
+  "name": "miniature-metropolises",
+  "version": "1.0.0",
+  "description": "A way to play Tiny Towns online # Milestones - Make it work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./.built && tsc",
+    "start": "node ./.built/server/index.js",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-ng/miniature-metropolises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-ng/miniature-metropolises/issues"
+  },
+  "homepage": "https://github.com/nick-ng/miniature-metropolises#readme",
+  "dependencies": {
+    "typescript": "^3.6.2",
+    "uglify-js": "^3.6.0"
+  }
+}
